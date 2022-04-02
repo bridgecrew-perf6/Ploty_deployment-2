@@ -11,3 +11,6 @@ Below is the image of the page and the link to enter it.
 
 https://cbello03061.github.io/Ploty_deployment/
 
+![image](https://user-images.githubusercontent.com/96089967/161396546-3d84814a-a176-454e-a911-031ece182bca.png)
+
+
